@@ -24,3 +24,7 @@ Next, these two equations will give us a helping hand when attempting to find th
 
 ![Gradient](https://cloud.githubusercontent.com/assets/22850980/26347671/257eebca-3f5f-11e7-83e2-7eefd3cd9618.jpg)
 
+## Inspiration and Documentation
+
+__Gradient Descent Example__
+* Huge thanks to Matt Nedrich for providing a detailed example of gradient descent for noobs. Check his Github out. I learned a ton with this example alone. 
