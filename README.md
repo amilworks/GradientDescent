@@ -27,6 +27,13 @@ Next, these two equations will give us a helping hand when attempting to find th
 
 ![Gradient](https://cloud.githubusercontent.com/assets/22850980/26347671/257eebca-3f5f-11e7-83e2-7eefd3cd9618.jpg)
 
+## How to Run and Results
+The easiest way to show you how to run the code is by showing. 
+
+
+![](https://cloud.githubusercontent.com/assets/22850980/26349969/67bcb9fc-3f66-11e7-9c76-6f37fb4190b5.png)
+
+
 ## Inspiration and Documentation
 
 __Gradient Descent Example__
