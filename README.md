@@ -2,6 +2,9 @@
 
 For all of you PSTAT 126 students out there, and, well, people who have taken a course on _Linear Regression_, here is an example of how to start expanding your theoretical knowledge horizon. This example requires you know some basic `Python`. If you don't know the basics, seriously ask yourself why you are here, why you still exist, and why you think you will learn from someone who sucks at `Java`. 
 
+![](https://cloud.githubusercontent.com/assets/22850980/26349410/6b6e50e4-3f64-11e7-9b84-681241831615.gif)
+
+
 ## Plotting Points 
 
 ![](https://cloud.githubusercontent.com/assets/22850980/26348383/7117fec6-3f61-11e7-90ae-681a207da9b3.jpg)
