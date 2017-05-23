@@ -1,2 +1,10 @@
-# GradientDescent
-Learning about gradient descent.
+# Linear Regression using Gradient Descent
+
+For all of you PSTAT 126 students out there, and, well, people who have taken a course on _Linear Regression_, here is an example of how to start expanding your theoretical knowledge horizon. This example requires you know some basic `Python`. If you don't know the basics, seriously ask yourself why you are here, why you still exist, and why you think you will learn from someone who sucks at `Java`. 
+
+Let's begin with two equations that will give us a helping hand when attempting to find the minimum.
+
+
+
+
+
