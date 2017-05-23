@@ -6,5 +6,5 @@ Let's begin with two equations that will give us a helping hand when attempting 
 
 
 
-
+![Gradient](https://cloud.githubusercontent.com/assets/22850980/26347671/257eebca-3f5f-11e7-83e2-7eefd3cd9618.jpg)
 
